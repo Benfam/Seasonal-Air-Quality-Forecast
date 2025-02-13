@@ -1,0 +1,20 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore dataset files
+Daily_PM25.csv
+use_Daily PM2.5.csv
+Cleaned_Daily_PM25.csv
+
+# Ignore HDF5 model files
+*.h5
+Seasonal script for deployment.zip
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
